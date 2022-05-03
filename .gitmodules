@@ -1,0 +1,6 @@
+[submodule "pyvoqc"]
+	path = pyvoqc
+	url = git@github.com:inQWIRE/pyvoqc.git
+[submodule "QASMBench"]
+	path = QASMBench
+	url = git@github.com:pnnl/QASMBench.git
