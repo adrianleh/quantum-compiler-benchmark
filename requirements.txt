@@ -1,0 +1,5 @@
+jupyter
+pyzx
+pytket
+qiskit
+git+https://github.com/softwareQinc/staq
